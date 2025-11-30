@@ -1,5 +1,5 @@
 # Rust
-/target
+target
 
 # macOS
 .DS_Store
